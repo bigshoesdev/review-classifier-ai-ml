@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+flask
+flask-cors
+transformers
+torch
+python-dotenv
+scikit-learn
+matplotlib
+joblib

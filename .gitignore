@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+.env
+venv/
+.env.*
+.DS_Store
+backend/.idea/*
+
+# Model files
+*.pkl
+*.joblib
+*.pt
+*.h5
+*.onnx
+
+# Matplotlib plots or outputs
+*.png
+*.svg
+*.pdf
+
+# VSCode
+.vscode/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS stuff
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Frontend (Vite/React)
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Logs
+chat_log.txt
+confusion_matrix.png
+
+# __tests__ snapshots / coverage
+coverage/
+*.lcov

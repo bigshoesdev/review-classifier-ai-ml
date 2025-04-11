@@ -1,0 +1,4 @@
+text,label,prediction
+"This is great!",positive,positive
+"Terrible service",negative,negative
+"Not bad",positive,negative
